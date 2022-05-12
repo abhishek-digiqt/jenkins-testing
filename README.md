@@ -1,2 +1,2 @@
 # jenkins-testing
-yatto
+testing
