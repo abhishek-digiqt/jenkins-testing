@@ -1,2 +1,2 @@
 # jenkins-testing
-yamero
+yamer
